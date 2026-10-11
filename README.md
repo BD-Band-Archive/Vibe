@@ -63,7 +63,7 @@ Released in 2007 under the prestigious label G-Series, *Chena Jogot* ("Known Wor
 ---
 
 <a id="2-agontuk-1-2003"></a>
-## 2. [Agontuk 1 (আগন্তুক ১) (2003)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Agontuk%201%20%282003%29)
+## 2. [Agontuk 1 (আগন্তুক ১) (2003)](https://github.com/GhostDog45/Mixed-Albums#4-agontuk-1-2003)
 
 ### 🎵 Tracklist (One-Tap Download)
 
