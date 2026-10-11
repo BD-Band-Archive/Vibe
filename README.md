@@ -3,7 +3,7 @@
 [![← Back to BD Band Music](https://img.shields.io/badge/←%20Back%20to-BD%20Band%20Music-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostDog45/BD-Band-Music) [![Audio Format - FLAC Lossless](https://img.shields.io/badge/Audio%20Format-FLAC%20Lossless-007ec6?style=for-the-badge&logo=flac&logoColor=white)](#) [![Git LFS - Enabled](https://img.shields.io/badge/Git%20LFS-Enabled-f05032?style=for-the-badge&logo=git-lfs&logoColor=white)](#) [![Direct One-Tap Downloads](https://img.shields.io/badge/Direct%20Downloads-One--Tap%20FLAC-2ea44f?style=for-the-badge&logo=github&logoColor=white)](#)
 
 <p align="center">
-  <img src="assets/band_cover.jpg" alt="Vibe Band" width="750" />
+  <img src="https://github.com/GhostDog45/Vibe/blob/c4f1a01a13c48f961146cf43465a8bd4f83d1770/assets/band_cover.jpg" alt="Vibe Band" width="750" />
 </p>
 
 ## 🌟 About the Band
