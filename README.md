@@ -1,9 +1,9 @@
 # 🎸 Vibe
 
-[![← Back to BD Band Music](https://img.shields.io/badge/←%20Back%20to-BD%20Band%20Music-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostDog45/BD-Band-Music) [![Audio Format - FLAC Lossless](https://img.shields.io/badge/Audio%20Format-FLAC%20Lossless-007ec6?style=for-the-badge&logo=flac&logoColor=white)](#) [![Git LFS - Enabled](https://img.shields.io/badge/Git%20LFS-Enabled-f05032?style=for-the-badge&logo=git-lfs&logoColor=white)](#) [![Direct One-Tap Downloads](https://img.shields.io/badge/Direct%20Downloads-One--Tap%20FLAC-2ea44f?style=for-the-badge&logo=github&logoColor=white)](#)
+[![← Back to BD Band Music](https://img.shields.io/badge/←%20Back%20to-BD%20Band%20Music-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BD-Band-Archive/BD-Band-Music) [![Audio Format - FLAC Lossless](https://img.shields.io/badge/Audio%20Format-FLAC%20Lossless-007ec6?style=for-the-badge&logo=flac&logoColor=white)](#) [![Git LFS - Enabled](https://img.shields.io/badge/Git%20LFS-Enabled-f05032?style=for-the-badge&logo=git-lfs&logoColor=white)](#) [![Direct One-Tap Downloads](https://img.shields.io/badge/Direct%20Downloads-One--Tap%20FLAC-2ea44f?style=for-the-badge&logo=github&logoColor=white)](#)
 
 <p align="center">
-  <img src="https://github.com/GhostDog45/Vibe/blob/c4f1a01a13c48f961146cf43465a8bd4f83d1770/assets/band_cover.jpg" alt="Vibe Band" width="750" />
+  <img src="https://github.com/BD-Band-Archive/Vibe/blob/c4f1a01a13c48f961146cf43465a8bd4f83d1770/assets/band_cover.jpg" alt="Vibe Band" width="750" />
 </p>
 
 ## 🌟 About the Band
@@ -38,17 +38,17 @@ Released in 2007 under the prestigious label G-Series, *Chena Jogot* ("Known Wor
 
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**01. Shopnodev**](https://media.githubusercontent.com/media/GhostDog45/Vibe/master/CHENA%20JOGOT/01.%20Shopnodev.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Vibe/master/CHENA%20JOGOT/01.%20Shopnodev.flac?download=true)
-- [**02. Shesher Opashe**](https://media.githubusercontent.com/media/GhostDog45/Vibe/master/CHENA%20JOGOT/02.%20Shesher%20Opashe.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Vibe/master/CHENA%20JOGOT/02.%20Shesher%20Opashe.flac?download=true)
-- [**03. Bidhatari Ronge Aka**](https://media.githubusercontent.com/media/GhostDog45/Vibe/master/CHENA%20JOGOT/03.%20Bidhatari%20Ronge%20Aka.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Vibe/master/CHENA%20JOGOT/03.%20Bidhatari%20Ronge%20Aka.flac?download=true)
-- [**04. Chena Jogot**](https://media.githubusercontent.com/media/GhostDog45/Vibe/master/CHENA%20JOGOT/04.%20Chena%20Jogot.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Vibe/master/CHENA%20JOGOT/04.%20Chena%20Jogot.flac?download=true)
-- [**05. Odhora**](https://media.githubusercontent.com/media/GhostDog45/Vibe/master/CHENA%20JOGOT/05.%20Odhora.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Vibe/master/CHENA%20JOGOT/05.%20Odhora.flac?download=true)
-- [**06. Mone Pore**](https://media.githubusercontent.com/media/GhostDog45/Vibe/master/CHENA%20JOGOT/06.%20Mone%20Pore.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Vibe/master/CHENA%20JOGOT/06.%20Mone%20Pore.flac?download=true)
-- [**07. Ashar Prodip Jole**](https://media.githubusercontent.com/media/GhostDog45/Vibe/master/CHENA%20JOGOT/07.%20Ashar%20Prodip%20Jole.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Vibe/master/CHENA%20JOGOT/07.%20Ashar%20Prodip%20Jole.flac?download=true)
-- [**08. Ure Chole Jai**](https://media.githubusercontent.com/media/GhostDog45/Vibe/master/CHENA%20JOGOT/08.%20Ure%20Chole%20Jai.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Vibe/master/CHENA%20JOGOT/08.%20Ure%20Chole%20Jai.flac?download=true)
-- [**09. Amar Shongbidhan**](https://media.githubusercontent.com/media/GhostDog45/Vibe/master/CHENA%20JOGOT/09.%20Amar%20Shongbidhan.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Vibe/master/CHENA%20JOGOT/09.%20Amar%20Shongbidhan.flac?download=true)
-- [**10. Obak Shob Shopno**](https://media.githubusercontent.com/media/GhostDog45/Vibe/master/CHENA%20JOGOT/10.%20Obak%20Shob%20Shopno.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Vibe/master/CHENA%20JOGOT/10.%20Obak%20Shob%20Shopno.flac?download=true)
-- [**11. Nostalgia**](https://media.githubusercontent.com/media/GhostDog45/Vibe/master/CHENA%20JOGOT/11.%20Nostalgia.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Vibe/master/CHENA%20JOGOT/11.%20Nostalgia.flac?download=true)
+- [**01. Shopnodev**](https://media.githubusercontent.com/media/BD-Band-Archive/Vibe/master/CHENA%20JOGOT/01.%20Shopnodev.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Vibe/master/CHENA%20JOGOT/01.%20Shopnodev.flac?download=true)
+- [**02. Shesher Opashe**](https://media.githubusercontent.com/media/BD-Band-Archive/Vibe/master/CHENA%20JOGOT/02.%20Shesher%20Opashe.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Vibe/master/CHENA%20JOGOT/02.%20Shesher%20Opashe.flac?download=true)
+- [**03. Bidhatari Ronge Aka**](https://media.githubusercontent.com/media/BD-Band-Archive/Vibe/master/CHENA%20JOGOT/03.%20Bidhatari%20Ronge%20Aka.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Vibe/master/CHENA%20JOGOT/03.%20Bidhatari%20Ronge%20Aka.flac?download=true)
+- [**04. Chena Jogot**](https://media.githubusercontent.com/media/BD-Band-Archive/Vibe/master/CHENA%20JOGOT/04.%20Chena%20Jogot.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Vibe/master/CHENA%20JOGOT/04.%20Chena%20Jogot.flac?download=true)
+- [**05. Odhora**](https://media.githubusercontent.com/media/BD-Band-Archive/Vibe/master/CHENA%20JOGOT/05.%20Odhora.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Vibe/master/CHENA%20JOGOT/05.%20Odhora.flac?download=true)
+- [**06. Mone Pore**](https://media.githubusercontent.com/media/BD-Band-Archive/Vibe/master/CHENA%20JOGOT/06.%20Mone%20Pore.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Vibe/master/CHENA%20JOGOT/06.%20Mone%20Pore.flac?download=true)
+- [**07. Ashar Prodip Jole**](https://media.githubusercontent.com/media/BD-Band-Archive/Vibe/master/CHENA%20JOGOT/07.%20Ashar%20Prodip%20Jole.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Vibe/master/CHENA%20JOGOT/07.%20Ashar%20Prodip%20Jole.flac?download=true)
+- [**08. Ure Chole Jai**](https://media.githubusercontent.com/media/BD-Band-Archive/Vibe/master/CHENA%20JOGOT/08.%20Ure%20Chole%20Jai.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Vibe/master/CHENA%20JOGOT/08.%20Ure%20Chole%20Jai.flac?download=true)
+- [**09. Amar Shongbidhan**](https://media.githubusercontent.com/media/BD-Band-Archive/Vibe/master/CHENA%20JOGOT/09.%20Amar%20Shongbidhan.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Vibe/master/CHENA%20JOGOT/09.%20Amar%20Shongbidhan.flac?download=true)
+- [**10. Obak Shob Shopno**](https://media.githubusercontent.com/media/BD-Band-Archive/Vibe/master/CHENA%20JOGOT/10.%20Obak%20Shob%20Shopno.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Vibe/master/CHENA%20JOGOT/10.%20Obak%20Shob%20Shopno.flac?download=true)
+- [**11. Nostalgia**](https://media.githubusercontent.com/media/BD-Band-Archive/Vibe/master/CHENA%20JOGOT/11.%20Nostalgia.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Vibe/master/CHENA%20JOGOT/11.%20Nostalgia.flac?download=true)
 
 ### 🖼️ Album Artwork
 
@@ -63,11 +63,11 @@ Released in 2007 under the prestigious label G-Series, *Chena Jogot* ("Known Wor
 ---
 
 <a id="2-agontuk-1-2003"></a>
-## 2. [Agontuk 1 (আগন্তুক ১) (2003)](https://github.com/GhostDog45/Mixed-Albums#4-agontuk-1-2003)
+## 2. [Agontuk 1 (আগন্তুক ১) (2003)](https://github.com/BD-Band-Archive/Mixed-Albums#4-agontuk-1-2003)
 
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Vibe - Durey Durey**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%201%20%282003%29/09%20Durey%20Durey.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%201%20%282003%29/09%20Durey%20Durey.flac?download=true)
+- [**Vibe - Durey Durey**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Agontuk%201%20%282003%29/09%20Durey%20Durey.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Agontuk%201%20%282003%29/09%20Durey%20Durey.flac?download=true)
 ---
 
 ### 💾 Git LFS & Downloading Audio
@@ -76,7 +76,7 @@ All audio tracks in this repository are managed via **Git LFS** (Large File Stor
 - **To clone the complete discography locally with all FLAC files:**
   ```bash
   git lfs install
-  git clone https://github.com/GhostDog45/Vibe.git
+  git clone https://github.com/BD-Band-Archive/Vibe.git
   ```
 ---
 
