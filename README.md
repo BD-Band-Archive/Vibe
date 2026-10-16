@@ -60,6 +60,12 @@ Released in 2007 under the prestigious label G-Series, *Chena Jogot* ("Known Wor
 | <img src="CHENA%20JOGOT/Album%20Covers/Chena%20Jogot%20%5BInset-4%5D.jpg" width="300" alt="7. Inset (Part 4)" /><br><sub><b>7. Inset (Part 4)</b></sub> | <img src="CHENA%20JOGOT/Album%20Covers/Chena%20Jogot%20%5BCD%5D.jpg" width="300" alt="8. Compact Disc (CD)" /><br><sub><b>8. Compact Disc (CD)</b></sub> |
 | <img src="CHENA%20JOGOT/Album%20Covers/Chena%20Jogot%20%5BBack%5D.jpg" width="300" alt="9. Back Cover" /><br><sub><b>9. Back Cover</b></sub> |  |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Exact Audio Copy (EAC Secure Rig)
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="2-agontuk-1-2003"></a>
