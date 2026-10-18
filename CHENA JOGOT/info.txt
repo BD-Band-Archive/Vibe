@@ -1,0 +1,30 @@
+Album Name: CHENA JOGOT
+Album Type: Band
+Release Year: 2007
+Genre: Rock
+Total Songs: 11
+Track List:
+01. Shopnodev
+02. Shesher Opashe
+03. Bidhatari Ronge Aka
+04. Chena Jogot
+05. Odhora
+06. Mone Pore
+07. Ashar Prodip Jole
+08. Ure Chole Jai
+09. Amar Shongbidhan
+10. Obak Shob Shopno
+11. Nostalgia
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 1 412 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.3.1 (2014-11-25)
